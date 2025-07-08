@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1>Tracktition Support</h1>
-  <p>Thanks for using CaseTrack. For support inquiries, please contact us at <a href="mailto:support@diegul.com">management@diegul.com</a>.</p>
+  <p>Thanks for using Tracktition. For support inquiries, please contact us at <a href="mailto:support@diegul.com">management@diegul.com</a>.</p>
 </body>
 </html>
