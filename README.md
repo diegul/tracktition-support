@@ -5,6 +5,7 @@
 </head>
 <body>
   <h1>Tracktition Support</h1>
-  <p>Thanks for using Tracktition. For support inquiries, please contact us at <a href="mailto:support@diegul.com">management@diegul.com</a>.</p>
+  <p>Thanks for using Tracktition. For support inquiries, please contact us at <a href="mailto:management@diegul.com">management@diegul.com</a>.</p>
+  <p>To delete your account and associated data, email <a href="mailto:management@diegul.com">management@diegul.com</a> with the subject ‘Delete my account’ from the email you used to register. Your data will be removed within 30 days.</p>
 </body>
 </html>
